@@ -8,6 +8,10 @@ authors = ["Shparki <murrmat@gmail.com>"]
 python = "^3.6"
 gitpython = "^3.1.7"
 requests = "^2.24.0"
+click = "^7.1.2"
+pyfiglet = "^0.8.post1"
+pyinquirer = "^1.0.3"
+dropbox = "^10.3.0"
 
 [tool.poetry.dev-dependencies]
 pylint = "^2.5.3"
